@@ -4,7 +4,7 @@
  * @Author             : ChangeMeIn@UserSettingsUnder.SFDoc
  * @Group              : 
  * @Last Modified By   : ChangeMeIn@UserSettingsUnder.SFDoc
- * @Last Modified On   : 13/8/2019, 9:20:23 PM
+ * @Last Modified On   : 13/8/2019, 9:21:44 PM
  * @Modification Log   : 
  *==============================================================================
  * Ver         Date                     Author      		      Modification
@@ -15,5 +15,6 @@ public class Test{
 
     public void test1(){
         System.debug('hello1');
+        System.debug('hello2');
     }
 }
